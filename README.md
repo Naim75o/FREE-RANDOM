@@ -23,7 +23,7 @@ git clone https://github.com/Naim75o/FREE-RANDOM
 
 cd FREE-RANDOM
 
-python NIKOTIN.py
+python run.py
 
 
 Note: (This Tools Are [ FREE ], So You No Need Permission To Use [ BIRI-CRACK ] Tools Enjoy)
