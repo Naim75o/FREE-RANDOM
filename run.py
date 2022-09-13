@@ -1,6 +1,6 @@
 import os, sys
 try:
-    __import__("sr").menu()
+    __import__("c").vx()
 except Exception as e:
     exit(str(e))
  
